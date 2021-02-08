@@ -24,7 +24,7 @@ students.clear()                 #5 Clears the list items without deleting the L
 print(students)
 
 
-##### Question 1 
+##### Question 2 
 # Experiment with Five Dictionary's Built in Function
 
 st_aloysius_school = {
